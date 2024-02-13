@@ -1,6 +1,10 @@
 team: Tigers
 ​
+<<<<<<< HEAD
 manager: mainSTTigers
+=======
+manager: mainTigers
+>>>>>>> to-rebase
 ​
 coach : to-MergeSTGrace
 
@@ -9,4 +13,9 @@ members:
 - William
 - David
 - George
+<<<<<<< HEAD
 - Kim
+=======
+- to-rebaseTyler
+- Kim
+>>>>>>> to-rebase
