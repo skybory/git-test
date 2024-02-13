@@ -10,7 +10,3 @@ members:
 - David
 - George
 - Kim
-
-
- 
-  
