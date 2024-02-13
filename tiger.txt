@@ -1,6 +1,10 @@
 team: Tigers
 ​
+<<<<<<< HEAD
 manager: mainTigers
+=======
+manager: Conlict-1Donald
+>>>>>>> conlict-1
 ​
 coach : Grace
 
