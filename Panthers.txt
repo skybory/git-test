@@ -2,7 +2,7 @@ team: Panthers
 ​
 manager: MainSebastian
 ​
-coach : Teddy
+coach : Conflict-2Teddy
 
 members:
 - Violet
