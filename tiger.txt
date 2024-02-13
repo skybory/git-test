@@ -2,7 +2,7 @@ team: Tigers
 ​
 manager: mainSTTigers
 ​
-coach : Grace
+coach : to-MergeSTGrace
 
 members:
 - Linda
