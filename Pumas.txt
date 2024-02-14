@@ -7,3 +7,4 @@ members:
 - Carter
 - Finn
 - 신규추가
+- 신규추가2
